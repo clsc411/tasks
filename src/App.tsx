@@ -22,9 +22,8 @@ function App(): React.JSX.Element {
             >
                 <div>
                     <img
-                        src={"./IMG_5673.JPG"}
-                        alt="This is a lovely picture of my cat Milton"
-                        style={{ maxWidth: "200px" }}
+                        src="https://velvetescape.com/wp-content/uploads/2009/06/IMG_0136-1280x920.jpeg"
+                        alt="This is a picture of a sunset"
                     />
                 </div>
                 <div
